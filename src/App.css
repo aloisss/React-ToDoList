@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: linear-gradient(120deg, #659ff6 0%, #fda085 100%);
+  background-image:url(images/14042784.jpg);
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
@@ -137,3 +137,8 @@ select {
   transform: scale(1.5);
 }
 */
+
+footer{
+  margin-top: 400px;
+  padding-left: 30%;
+}

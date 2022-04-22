@@ -52,6 +52,7 @@ const saveLocalTodos = () => {
       <Form inputText={inputText} todos={todos} setTodos={setTodos} setInputText = {setInputText}
       status={status} setStatus={setStatus}/>
       <TodoList filteredTodos={filteredTodos}todos={todos} setTodos={setTodos} />
+      <footer>Web app by Tinashe Alois Masaraure</footer>
     </div>
   );
 };
